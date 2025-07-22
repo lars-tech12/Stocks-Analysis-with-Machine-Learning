@@ -1,2 +1,2 @@
 # Stocks-Analysis-with-Machine-Learning
-Documents the creation of an ML algorithm for stock analysis, following all CRISP-DM phases: business &amp; data understanding, preparation, modeling, evaluation, deployment. Guides users through building and applying ML for stock market insights.
+This repository documents the development process of a machine learning algorithm for stock analysis. The process follows all phases of the CRISP-DM (Cross Industry Standard Process for Data Mining) methodology, covering business understanding, data understanding, data preparation, modeling, evaluation, and deployment. The goal is to provide a comprehensive guide to building and applying a machine learning model for stock market analysis.
